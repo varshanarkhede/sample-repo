@@ -1,0 +1,7 @@
+{
+    "id": 1,
+    "name": "Sample Json",
+    "description": "Sample Json"
+    "status": "ACTIVE",
+    "mandatory": false
+}
